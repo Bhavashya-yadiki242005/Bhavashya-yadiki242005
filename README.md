@@ -1,38 +1,38 @@
-<h1 align="center">Hi 👋, I'm Bhavashya Chandra</h1>
+<h1 align="center">Hi 👋, I'm Bhavashya Chandra Yadiki</h1>
 
 <h3 align="center">
-Computer Science Engineering Student | Aspiring Site Reliability Engineer (SRE) | Cloud, DevOps & AI Enthusiast
+Computer Science Engineering Student | Full Stack Developer | Cloud • DevOps • AI • Data Engineering
 </h3>
 
 <p align="center">
-I'm passionate about building scalable applications, reliable cloud infrastructure, intelligent AI systems, and production-ready DevOps solutions.
+Passionate about building intelligent applications, scalable cloud solutions, modern web experiences, and production-ready software.
 </p>
 
 ---
 
 # 👨‍💻 Who I Am
 
-- 🎓 Computer Science Engineering Student
-- ☁️ Aspiring Site Reliability Engineer (SRE)
-- 🚀 Passionate about Cloud Computing, DevOps & Distributed Systems
-- 🤖 Interested in Generative AI, Agentic AI & Machine Learning
-- 💻 Full Stack Developer using React & Next.js
-- 📊 Data Engineering & Data Science Enthusiast
-- 📚 Always learning modern technologies and building real-world projects
+I'm a Computer Science Engineering student passionate about building software that solves real-world problems.
+
+My interests span **Full Stack Development, Cloud Computing, DevOps, Site Reliability Engineering (SRE), Data Engineering, Machine Learning, Generative AI, and Agentic AI**.
+
+I enjoy learning modern technologies, building practical projects, and continuously improving my skills while exploring new tools and frameworks.
+
+My goal is to become a versatile software engineer capable of designing scalable applications, intelligent AI systems, and reliable cloud infrastructure.
 
 ---
 
 # 🚀 What I'm Currently Doing
 
-- 🌱 Learning Advanced Site Reliability Engineering (SRE)
-- ☁️ Exploring AWS Cloud Services & Cloud Architecture
-- 🐳 Building Dockerized Applications
-- ☸️ Learning Kubernetes & Cloud Native Technologies
-- 🔧 Automating CI/CD using Jenkins & GitHub Actions
-- 🤖 Developing AI Agents with LangChain & OpenAI APIs
-- 📊 Building Machine Learning & Data Engineering Projects
-- 💻 Developing Modern Full Stack Applications using React & Next.js
-- 📖 Strengthening System Design & Linux Administration
+- 🌱 Learning Full Stack Development with React & Next.js
+- ☁️ Exploring AWS Cloud Computing & Cloud Architecture
+- 🐳 Building Docker & Kubernetes Projects
+- 🔧 Learning DevOps, CI/CD & Infrastructure Automation
+- 🤖 Developing AI Applications using LLMs, LangChain & RAG
+- 📊 Working on Data Engineering & Machine Learning Projects
+- 💻 Building Modern Web Applications
+- 📖 Improving Data Structures, System Design & Problem Solving
+- 🚀 Creating portfolio projects for Software Engineering, Cloud & AI
 
 ---
 
@@ -46,7 +46,7 @@ I'm passionate about building scalable applications, reliable cloud infrastructu
 
 ---
 
-## 🌐 Web Development
+## 🌐 Web Technologies
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,nodejs" />
@@ -101,7 +101,7 @@ I'm passionate about building scalable applications, reliable cloud infrastructu
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-FF5722?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI%20Agents-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Multi--Agent%20Workflows-607D8B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multi--Step%20Agentic%20Workflows-607D8B?style=for-the-badge"/>
 </p>
 
 ---
@@ -129,7 +129,7 @@ I'm passionate about building scalable applications, reliable cloud infrastructu
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/bhavashya-chandra-yadiki-9a7960359/" target="_blank">
+<a href="YOUR_LINKEDIN_URL" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
